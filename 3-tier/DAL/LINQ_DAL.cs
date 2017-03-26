@@ -15,17 +15,22 @@ namespace DAL
 
         public void AddProduct(Product p)
         {
-            throw new System.NotImplementedException();
+            DB.Add(p);
         }
 
         public List<Product> ProductNameQuery(string name)
         {
-            throw new System.NotImplementedException();
+            //perform query
+            var results = from Product p in DB
+                          where p.Name == name
+                          select p;
+            //return results
+            return results.ToList();
         }
 
         public List<Product> GetAllProducts()
         {
-            throw new System.NotImplementedException();
+            return DB;
         }
     }
 }
