@@ -15,3 +15,6 @@ c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\MainProg\obj\Debug\M
 C:\Users\Eyal\Desktop\3-tier\MainProg\bin\Debug\MainProg.exe.config
 C:\Users\Eyal\Desktop\3-tier\MainProg\obj\Debug\MainProg.exe
 C:\Users\Eyal\Desktop\3-tier\MainProg\obj\Debug\MainProg.pdb
+C:\Users\etay2\Desktop\practice2\3-tier\MainProg\bin\Debug\MainProg.exe.config
+C:\Users\etay2\Desktop\practice2\3-tier\MainProg\obj\Debug\MainProg.exe
+C:\Users\etay2\Desktop\practice2\3-tier\MainProg\obj\Debug\MainProg.pdb

@@ -31,7 +31,7 @@ namespace BL
             itsDAL.AddProduct(p);
         }
     }
-
+    console.
         public List<Product> FindProductByName(string name)
         {
            public List<Product> FindProductByName(string name)
