@@ -15,12 +15,29 @@ namespace BL
 
         public void AddProduct(Product p)
         {
-            throw new System.NotImplementedException();
+           public void AddProduct(Product p)
+        {
+            //First generate the new product ID
+            List<Product> Allprods = itsDAL.GetAllProducts();
+            int maxID = 0;
+            foreach (Product prod in Allprods)
+            {
+                if (prod.ProductID > maxID)
+                    maxID = prod.ProductID;
+            }
+            //set the new ID
+            p.ProductID = maxID++;
+            //Add the new product to the system
+            itsDAL.AddProduct(p);
         }
+    }
 
         public List<Product> FindProductByName(string name)
         {
-            throw new System.NotImplementedException();
-        }
+           public List<Product> FindProductByName(string name)
+    {
+        return itsDAL.ProductNameQuery(name);
+    }
+}
     }
 }
