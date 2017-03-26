@@ -31,7 +31,11 @@ namespace BL
             itsDAL.AddProduct(p);
         }
     }
-
+<<<<<<< HEAD
+    console.etay21
+=======
+    console.etay2121
+>>>>>>> origin/new
         public List<Product> FindProductByName(string name)
         {
            public List<Product> FindProductByName(string name)
