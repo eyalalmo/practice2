@@ -1,0 +1,17 @@
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\MainProg\bin\Debug\MainProg.exe.config
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\MainProg\bin\Debug\MainProg.exe
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\MainProg\bin\Debug\MainProg.pdb
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\MainProg\bin\Debug\BL.dll
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\MainProg\bin\Debug\DAL.dll
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\MainProg\bin\Debug\PL.dll
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\MainProg\bin\Debug\BL_BackEnd.dll
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\MainProg\bin\Debug\BL.pdb
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\MainProg\bin\Debug\DAL.pdb
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\MainProg\bin\Debug\PL.pdb
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\MainProg\bin\Debug\BL_BackEnd.pdb
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\MainProg\obj\Debug\MainProg.csprojResolveAssemblyReference.cache
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\MainProg\obj\Debug\MainProg.exe
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\MainProg\obj\Debug\MainProg.pdb
+C:\Users\Eyal\Desktop\3-tier\MainProg\bin\Debug\MainProg.exe.config
+C:\Users\Eyal\Desktop\3-tier\MainProg\obj\Debug\MainProg.exe
+C:\Users\Eyal\Desktop\3-tier\MainProg\obj\Debug\MainProg.pdb

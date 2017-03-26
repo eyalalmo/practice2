@@ -1,0 +1,8 @@
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\DAL\bin\Debug\DAL.dll.config
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\DAL\bin\Debug\DAL.dll
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\DAL\bin\Debug\DAL.pdb
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\DAL\bin\Debug\BL_BackEnd.dll
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\DAL\bin\Debug\BL_BackEnd.pdb
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\DAL\obj\Debug\DAL.dll
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,5 @@
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\BL_BackEnd\bin\Debug\BL_BackEnd.dll
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\BL_BackEnd\bin\Debug\BL_BackEnd.pdb
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\BL_BackEnd\obj\Debug\BL_BackEnd.csprojResolveAssemblyReference.cache
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\BL_BackEnd\obj\Debug\BL_BackEnd.dll
+c:\Users\tomer\documents\visual studio 2015\Projects\3-tier\BL_BackEnd\obj\Debug\BL_BackEnd.pdb
