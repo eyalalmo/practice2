@@ -30,6 +30,7 @@ namespace DAL
 
         public List<Product> GetAllProducts()
         {
+            int i = 16;
             return DB;
         }
     }
